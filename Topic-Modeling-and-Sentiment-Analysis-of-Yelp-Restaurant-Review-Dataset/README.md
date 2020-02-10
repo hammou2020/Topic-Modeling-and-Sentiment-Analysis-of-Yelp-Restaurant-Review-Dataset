@@ -1,4 +1,7 @@
-# Topic-Modeling-and-Sentiment-Analysis-of-Yelp-Restaurant-Review-Dataset
+# Yelp Dataset Challenge
+
+Data source:
+https://www.yelp.com/dataset/challenge
 
 Objective: 
 1. Inform business owners of actionable insights from customer reviews. 
